@@ -1,3 +1,2 @@
-# Explainable-CofCED
 ## Wisdom of crowd: CofCED 
 Coming soon...
