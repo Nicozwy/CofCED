@@ -1,5 +1,5 @@
 ## Wisdom of crowd: CofCED 
-For `A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection` accepted by COLING 2022. CofCED is an explainable method proposed by this paper. 
+For `A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection` accepted by COLING 2022. `CofCED` is an explainable method proposed by this paper. 
 
 Coming soon...
 
