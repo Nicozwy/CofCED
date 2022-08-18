@@ -1,4 +1,4 @@
-## Wisdom of crowd: CofCED 
+## Wisdom of crowd: CofCED (COLING 2022)
 For `A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection` accepted by COLING 2022. CofCED is an explainable method proposed by this paper. 
 
 Coming soon...
