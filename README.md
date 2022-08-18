@@ -3,7 +3,7 @@ For `A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explaina
 
 Coming soon...
 
-`Cite this paper as follows （BibTeX）: ` 
+##### Cite this paper as follows （BibTeX）: 
 
 ```
 @inproceedings{yang2022a,
