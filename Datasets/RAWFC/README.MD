@@ -1,8 +1,7 @@
 ## RAWFC 
 
-'''
-To alleviate the dependency of fact-checking reports，RAWFC is constructed by utilizing raw reports (from scratch), where gold labels refer to `www.snopes.com`.   
-'''
+To alleviate the dependency of fact-checking reports, RAWFC is constructed using raw reports (from scratch), where gold labels refer to Snopes.   
+
 
 ## Download
 Resources are available at https://www.dropbox.com/sh/1w7crp3hauoec5m/AABJpG6YWbqrumypBpHJEDnSa?dl=0
