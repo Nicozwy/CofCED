@@ -1,6 +1,7 @@
 ## RAWFC 
 
-To alleviate the dependency of fact-checked reports, RAWFC was constructed by using raw reports (from scratch), where gold labels refer to Snopes.   
+To alleviate the dependency of fact-checked reports, RAWFC was constructed by using raw reports (from scratch), where gold labels refer to Snopes. 
+Each instance in the train/val/test set is presented as a signle file. 
 
 
 ## Download
