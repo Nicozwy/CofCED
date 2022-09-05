@@ -1,6 +1,6 @@
 <p align="center">
  <img width=600px src="https://github.com/Nicozwy/CofCED/blob/main/logo.png" align="center" alt="CofCED" />
- <h2 align="center">Wisdom of crowd: CofCED</h2>
+ <h2 align="center">Wisdom of crowds: CofCED</h2>
  <p align="center"> </p>
 </p>
 
