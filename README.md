@@ -25,7 +25,7 @@ We constructed two realistic datasets, i.e., RAWFC and LIAR-RAW, consisting of r
 }
 ```
 
-Arxiv PDF: https://arxiv.org/abs/2209.14642
+PDF: https://arxiv.org/abs/2209.14642
 
 
 
