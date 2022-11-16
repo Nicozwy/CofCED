@@ -1,4 +1,5 @@
 # CofCED_running codes
+
 ## 1. Installing requirement packages
 ```
 conda create -n fact22 python=3.8
@@ -10,8 +11,9 @@ pip install torch>=1.8
 ```
 Tips: - Adding a `logs` dir to the path of `datasets`. 
 
+## 2. Follow the guide to download the datasets and put them in the correct location. 
 
-## 2. Please cite this paper as follows （BibTeX）: 
+## 3. Please cite this paper as follows （BibTeX）: 
 ```
 @inproceedings{yang2022cofced,
   title={A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection},
