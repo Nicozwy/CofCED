@@ -11,7 +11,7 @@
 
 :triangular_flag_on_post: If possible, could you please star this project. :star:  :arrow_upper_right:
 
-### Codes (have been uploaded)
+### Codes 
 #### Installing requirement packages
 ```
 conda create -n fact22 python=3.8
