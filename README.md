@@ -11,12 +11,23 @@
 
 :triangular_flag_on_post: If possible, could you please star this project. :star:  :arrow_upper_right:
 
+### Codes (have been uploaded)
+## Installing requirement packages
+```
+conda create -n fact22 python=3.8
+source activate fact22
+conda install pytorch==1.12.0 torchvision==0.13.0 torchaudio==0.12.0 cudatoolkit=11.3 -c pytorch
+pip install transformers pandas==1.1.2 tqdm==4.50.0 nltk==3.5 rouge-score==0.0.4 sklearn
+pip install sentence_transformers   # for evaluation
+pip install torch>=1.8
+```
+
 ### Datasets 
 We constructed two realistic datasets, i.e., RAWFC and LIAR-RAW, consisting of raw reports for each claim.
 - [RAWFC](https://github.com/Nicozwy/CofCED/tree/main/Datasets/RAWFC)
 - [LIAR-RAW](https://github.com/Nicozwy/CofCED/tree/main/Datasets/LIAR-RAW)
 
-### Cite this paper as follows （BibTeX）: 
+### Please cite this paper as follows （BibTeX）: 
 ```
 @inproceedings{yang2022cofced,
   title={A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection},
