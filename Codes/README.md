@@ -13,6 +13,10 @@ Tips: - Adding a `logs` dir to the path of `datasets`.
 
 ## 2. Follow the guide to download the datasets and put them in the correct location. 
 
+## 3. Run the code
+It is recommended to run on linux servers with the following script: 
+`python train_exp_fc5_xxx.py`
+
 ## 3. Please cite this paper as follows （BibTeX）: 
 ```
 @inproceedings{yang2022cofced,
