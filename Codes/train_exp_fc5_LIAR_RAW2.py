@@ -256,9 +256,9 @@ def train_model(n_epochs=n_epochs,
             loss = param1*cla_loss + param2*evi_loss + param3*doc_loss
 
             # append loss for update params
-            claim_loss.append(cla_loss)
-            sent_loss.append(evi_loss)
-            report_loss.append(doc_loss)
+            claim_loss.append(cla_loss.detach())
+            sent_loss.append(evi_loss.detach())
+            report_loss.append(doc_loss.detach())
 
             running_loss += loss.item()
             _, pred = torch.max(pred_veraciy, 1)####
