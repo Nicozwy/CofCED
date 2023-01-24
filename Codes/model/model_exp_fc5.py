@@ -59,9 +59,9 @@ class ExplainFC(nn.Module):
         
         self.source_dim = source_dim
         self.vocab_article_source = vocab_article_source
-        if self.vocab_article_source:
-            self.article_source_dict = json.load(open(self.vocab_article_source, "r", encoding="utf-8"))
-            self.article_source_embedding = nn.Embedding(len(self.article_source_dict), self.source_dim, padding_idx=0)
+#         if self.vocab_article_source:
+#             self.article_source_dict = json.load(open(self.vocab_article_source, "r", encoding="utf-8"))
+#             self.article_source_embedding = nn.Embedding(len(self.article_source_dict), self.source_dim, padding_idx=0)
             
         # self.sent_embed = lmembed
         # self.lm_model = DistilBertModel.from_pretrained('distilbert-base-uncased')
