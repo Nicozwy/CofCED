@@ -10,7 +10,8 @@
 `CofCED` is an explainable method proposed by this paper. We present the first study on explainable fake news detection directly utilizing the wisdom of crowds (raw reports), alleviating the dependency on fact-checked reports.
 
 :triangular_flag_on_post: If possible, could you please star this project. :star:  :arrow_upper_right: 
-[Updated the link to datasets](https://www.dropbox.com/scl/fo/jqap5rfzrvcm1xcoqical/AISPkXJMsOYOFFltrpjH1-0?rlkey=43cw4ere929q4u72f2hn0323y&e=3&st=45jomzui&dl=0)
+
+[[Updated the link to RAWFC and LIAR-RAW datasets](https://www.dropbox.com/scl/fo/jqap5rfzrvcm1xcoqical/AISPkXJMsOYOFFltrpjH1-0?rlkey=43cw4ere929q4u72f2hn0323y&e=3&st=45jomzui&dl=0)]
 
 ### Codes 
 #### Installing requirement packages
